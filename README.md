@@ -10,5 +10,5 @@ I developed an interactive random art generator using recursion. It creates geom
   * provides a more user-friendly guide in generating Mondrian art from various variant and size options
 * Picture.java
   * contains supporting code for creating and displaying images
-* smondrian-static.gif
+* mondrian-static.gif
   * fun little animation
